@@ -5,9 +5,9 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1">
     <title>Home Page</title>
+    @vite(['resources/js/app.js']);
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600" rel="stylesheet" />
-    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="h-full">
 <div class="min-h-full">
